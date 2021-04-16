@@ -37,7 +37,7 @@
    "purpose": "any maskable"
   },
   {
-   "src": "./icon/apple-icon-114x114.png",
+   "src": "./icon/apple-icon-144x144.png",
    "sizes": "144x144",
    "type": "image/png",
    "density": "3.0",
